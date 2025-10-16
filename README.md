@@ -27,6 +27,8 @@
 
 ## 2. Реализация программы
 
+</div>
+
 ```c
 #include <stdio.h>
 #include <locale.h>
