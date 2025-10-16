@@ -55,6 +55,7 @@ int main() {
     printf("Вам понадобится около %.2f руб.\n", total_cost);
     return 0;
 }
+```
 
 <div align="center">
 
