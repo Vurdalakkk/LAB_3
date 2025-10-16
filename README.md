@@ -22,9 +22,8 @@
 
 ### Блок-схема
 
-<img width="158" height="621" alt="lab3" src="https://github.com/user-attachments/assets/cf65e469-86da-4208-b698-73de5ec655e2" />
+<img width="213" height="693" alt="dz_3" src="https://github.com/user-attachments/assets/438fb244-bbfc-4031-90ac-79ffe1e742c5" />
 
-</div>
 
 ## 2. Реализация программы
 
