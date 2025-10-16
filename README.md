@@ -25,9 +25,11 @@
 <img width="213" height="693" alt="dz_3" src="https://github.com/user-attachments/assets/438fb244-bbfc-4031-90ac-79ffe1e742c5" />
 
 
-## 2. Реализация программы
+
 
 </div>
+
+## 2. Реализация программы
 
 ```c
 #include <stdio.h>
@@ -53,7 +55,7 @@ int main() {
     printf("Вам понадобится около %.2f руб.\n", total_cost);
     return 0;
 }
-```
+
 <div align="center">
 
 ## 3. Результаты работы программы
